@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Rajneesh26D/weather-app/static/css/main.85e6b72e.css",
-    "main.js": "/Rajneesh26D/weather-app/static/js/main.04f691f9.js",
-    "static/js/453.0ccb7fb4.chunk.js": "/Rajneesh26D/weather-app/static/js/453.0ccb7fb4.chunk.js",
-    "index.html": "/Rajneesh26D/weather-app/index.html",
-    "main.85e6b72e.css.map": "/Rajneesh26D/weather-app/static/css/main.85e6b72e.css.map",
-    "main.04f691f9.js.map": "/Rajneesh26D/weather-app/static/js/main.04f691f9.js.map",
-    "453.0ccb7fb4.chunk.js.map": "/Rajneesh26D/weather-app/static/js/453.0ccb7fb4.chunk.js.map"
+    "main.css": "/weather-app/static/css/main.85e6b72e.css",
+    "main.js": "/weather-app/static/js/main.7316c1a2.js",
+    "static/js/453.0ccb7fb4.chunk.js": "/weather-app/static/js/453.0ccb7fb4.chunk.js",
+    "index.html": "/weather-app/index.html",
+    "main.85e6b72e.css.map": "/weather-app/static/css/main.85e6b72e.css.map",
+    "main.7316c1a2.js.map": "/weather-app/static/js/main.7316c1a2.js.map",
+    "453.0ccb7fb4.chunk.js.map": "/weather-app/static/js/453.0ccb7fb4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.85e6b72e.css",
-    "static/js/main.04f691f9.js"
+    "static/js/main.7316c1a2.js"
   ]
 }
